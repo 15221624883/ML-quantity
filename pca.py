@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 from sklearn import svm
 from sklearn.neural_network import MLPClassifier
 #20220718
+#重新上传测试
 
 # 我们的数据集与标签
 X = np.c_[(.4, -.7),
